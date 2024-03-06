@@ -175,6 +175,7 @@ body {
   .box1{
     display: flex;
     margin-right: 50px;
+    margin-bottom: 20px;
   }
 
   .img1{
@@ -243,6 +244,7 @@ body {
   .box3{
     display: flex;
     margin-right: 50px;
+    margin-bottom: 20px;
   }
   .img3{
     max-height: 100px;
@@ -284,6 +286,7 @@ body {
   .box5{
     display: flex;
     margin-right: 50px;
+    margin-bottom: 20px;
   }
   .img5{
     max-height: 100px;
